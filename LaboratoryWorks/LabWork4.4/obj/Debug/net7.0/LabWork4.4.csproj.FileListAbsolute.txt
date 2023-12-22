@@ -1,0 +1,14 @@
+D:\JetBrains Rider 2023.3.1\LaboratoryWorks\LabWork4.4\bin\Debug\net7.0\LabWork4.4.exe
+D:\JetBrains Rider 2023.3.1\LaboratoryWorks\LabWork4.4\bin\Debug\net7.0\LabWork4.4.deps.json
+D:\JetBrains Rider 2023.3.1\LaboratoryWorks\LabWork4.4\bin\Debug\net7.0\LabWork4.4.runtimeconfig.json
+D:\JetBrains Rider 2023.3.1\LaboratoryWorks\LabWork4.4\bin\Debug\net7.0\LabWork4.4.dll
+D:\JetBrains Rider 2023.3.1\LaboratoryWorks\LabWork4.4\bin\Debug\net7.0\LabWork4.4.pdb
+D:\JetBrains Rider 2023.3.1\LaboratoryWorks\LabWork4.4\obj\Debug\net7.0\LabWork4.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\JetBrains Rider 2023.3.1\LaboratoryWorks\LabWork4.4\obj\Debug\net7.0\LabWork4.4.AssemblyInfoInputs.cache
+D:\JetBrains Rider 2023.3.1\LaboratoryWorks\LabWork4.4\obj\Debug\net7.0\LabWork4.4.AssemblyInfo.cs
+D:\JetBrains Rider 2023.3.1\LaboratoryWorks\LabWork4.4\obj\Debug\net7.0\LabWork4.4.csproj.CoreCompileInputs.cache
+D:\JetBrains Rider 2023.3.1\LaboratoryWorks\LabWork4.4\obj\Debug\net7.0\LabWork4.4.dll
+D:\JetBrains Rider 2023.3.1\LaboratoryWorks\LabWork4.4\obj\Debug\net7.0\refint\LabWork4.4.dll
+D:\JetBrains Rider 2023.3.1\LaboratoryWorks\LabWork4.4\obj\Debug\net7.0\LabWork4.4.pdb
+D:\JetBrains Rider 2023.3.1\LaboratoryWorks\LabWork4.4\obj\Debug\net7.0\LabWork4.4.genruntimeconfig.cache
+D:\JetBrains Rider 2023.3.1\LaboratoryWorks\LabWork4.4\obj\Debug\net7.0\ref\LabWork4.4.dll
