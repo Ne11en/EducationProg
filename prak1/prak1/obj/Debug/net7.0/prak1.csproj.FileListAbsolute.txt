@@ -1,0 +1,14 @@
+C:\Users\gr624_ersvl\RiderProjects\prak1\prak1\bin\Debug\net7.0\prak1.exe
+C:\Users\gr624_ersvl\RiderProjects\prak1\prak1\bin\Debug\net7.0\prak1.deps.json
+C:\Users\gr624_ersvl\RiderProjects\prak1\prak1\bin\Debug\net7.0\prak1.runtimeconfig.json
+C:\Users\gr624_ersvl\RiderProjects\prak1\prak1\bin\Debug\net7.0\prak1.dll
+C:\Users\gr624_ersvl\RiderProjects\prak1\prak1\bin\Debug\net7.0\prak1.pdb
+C:\Users\gr624_ersvl\RiderProjects\prak1\prak1\obj\Debug\net7.0\prak1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr624_ersvl\RiderProjects\prak1\prak1\obj\Debug\net7.0\prak1.AssemblyInfoInputs.cache
+C:\Users\gr624_ersvl\RiderProjects\prak1\prak1\obj\Debug\net7.0\prak1.AssemblyInfo.cs
+C:\Users\gr624_ersvl\RiderProjects\prak1\prak1\obj\Debug\net7.0\prak1.csproj.CoreCompileInputs.cache
+C:\Users\gr624_ersvl\RiderProjects\prak1\prak1\obj\Debug\net7.0\prak1.dll
+C:\Users\gr624_ersvl\RiderProjects\prak1\prak1\obj\Debug\net7.0\refint\prak1.dll
+C:\Users\gr624_ersvl\RiderProjects\prak1\prak1\obj\Debug\net7.0\prak1.pdb
+C:\Users\gr624_ersvl\RiderProjects\prak1\prak1\obj\Debug\net7.0\prak1.genruntimeconfig.cache
+C:\Users\gr624_ersvl\RiderProjects\prak1\prak1\obj\Debug\net7.0\ref\prak1.dll
